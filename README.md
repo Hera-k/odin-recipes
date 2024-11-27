@@ -1,1 +1,1 @@
-Hello! this is my first project. I'm going to create a recipe book and have it link to some of my favorite recipes. YAY!
+Hello! this is my first project. I'm going to create a recipe book and have it link to some of my favorite recipes.
