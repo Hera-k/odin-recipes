@@ -1,0 +1,16 @@
+h1{
+    background-color:#D7C8ED;
+    color:black;
+    font-family:"Times New Roman", "Arial";
+}
+li{
+    background-color:#E0D4FC;
+    font-family:"Brush Script MT";
+}
+img{
+    background-color: #E0D4FC;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
