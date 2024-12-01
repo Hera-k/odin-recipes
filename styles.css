@@ -2,9 +2,10 @@ h1{
     background-color:#D7C8ED;
     color:black;
     font-family:"Times New Roman", "Arial";
+    text-align:center;
 }
 li{
-    background-color:#E0D4FC;
+    color:#42326E;
     font-family:"Brush Script MT";
 }
 img{
@@ -13,4 +14,10 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 350px;
+}
+
+p{
+    color:#42326E;
+    font-family: "Times New Roman", "Arial";
+    background-color: #E0D4FC;
 }
