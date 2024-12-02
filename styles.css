@@ -1,15 +1,17 @@
 h1{
-    background-color:#D7C8ED;
+    background-color:#E0D4FC;
     color:black;
     font-family:"Times New Roman", "Arial";
     text-align:center;
+    padding: 5px;
+    border: 30px solid #B29CE4;
 }
 li{
     color:#42326E;
     font-family:"Brush Script MT";
 }
 img{
-    background-color: #E0D4FC;
+    background-color: #d3cfdd;
     display: block;
     margin-left: auto;
     margin-right: auto;
