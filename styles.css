@@ -1,10 +1,12 @@
 h1{
-    background-color:#E0D4FC;
-    color:black;
+    background-color:#B29CE4;
+    box-sizing:border-box;
+    color:white;
     font-family:"Times New Roman", "Arial";
     text-align:center;
-    padding: 5px;
-    border: 30px solid #B29CE4;
+    padding: 3px;
+    border:5px solid #B29CE4;
+    margin: 20px;
 }
 li{
     color:#42326E;
