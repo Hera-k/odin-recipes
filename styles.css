@@ -1,12 +1,16 @@
-h1{
-    background-color:#B29CE4;
-    box-sizing:border-box;
-    color:white;
-    font-family:"Times New Roman", "Arial";
-    text-align:center;
-    padding: 3px;
+.container{
     border:5px solid #B29CE4;
     margin: 20px;
+}
+.box{
+border: 5px solid rebeccapurple;
+  background-color: #B29CE4;
+  padding: 10px;
+  height: 100px;
+  margin-top: -40px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+  margin-left: 4em;
 }
 li{
     color:#42326E;
