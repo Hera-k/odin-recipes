@@ -51,7 +51,7 @@ button{
     padding: 10px 10px;
     font-size: 13px;
 }
-.button:hover{
+button:hover{
     background-color: #B29CE4;
     color: white;
 }
