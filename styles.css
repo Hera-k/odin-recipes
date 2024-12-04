@@ -3,21 +3,28 @@ body{
 }
 .container{
     box-sizing: border-box;
-    width:500px;
+    width:700px;
     background-color: #E0D4FC;
-    padding: 20px;
-    margin: 16px 8px;
+    padding: 5px;
 }
 .box{
-    font-size: 50px;
+    font-size: 60px;
     margin-left: 1px;
-    padding: 5px 5px;
-    margin-bottom: 16px;
+    padding: 5px 5px;;
     width: 200px;
+    text-align: left;
+    margin-top: 1px;
+    display: inline-block;
     background-color: #E0D4FC;
-    margin-right: 200px;
+    margin-right: 5px;
     font-family:Brush Script, Helvetica, sans-serif
-
+}
+.image{
+    display:inline-block;
+    width: 200px;
+    padding: 5px 100px;
+    margin-right:10px;
+    margin-top: 1px;
 }
 .text{
     background-color: E0D4FC;
@@ -50,7 +57,7 @@ button{
 }
 .recipes{
     box-sizing: border-box;
-    width:500px;
+    width:700px;
     background-color: #E0D4FC;
     padding: 0px;
     margin: 16px 8px;
@@ -60,7 +67,7 @@ button{
     background-color: #B29CE4;
     display: inline-block;
     padding: 40.3px;
-    width: 250px;
+    width: 350px;
     box-sizing: border-box;
     color: white;
     height: 200px;
@@ -70,7 +77,7 @@ button{
     box-sizing: border-box;
     background-color: #6E5B9A;
     display: inline-block;
-    width: 245px;
+    width: 325px;
     color: white;
     height: 200px;
     text-align: left;
