@@ -1,41 +1,85 @@
-.container{
-    border:5px solid #B29CE4;
-    margin: 10px;
-    width: 300px;
+body{
     background-color: #E0D4FC;
-    margin-left:8em;
-    height: 150px;
-    text-align: center;
+}
+.container{
+    box-sizing: border-box;
+    width:500px;
+    background-color: #E0D4FC;
+    padding: 20px;
+    margin: 16px 8px;
 }
 .box{
-border: 5px solid rgb(143, 75, 211);
-  background-color: white;
-  padding: 30px;
-  width: 100px;
-  height: 50px;
-  font-family:'Times New Roman', Times, serif;
-  font-size: 20px;
-  font-weight: 100px;
-  margin-top: 10px;
-  margin-right: 10px;
-  margin-bottom: 50px;
-  margin-left: 3.25em;
-  text-align: center;
+    font-size: 50px;
+    margin-left: 1px;
+    padding: 5px 5px;
+    margin-bottom: 16px;
+    width: 200px;
+    background-color: #E0D4FC;
+    margin-right: 200px;
+    font-family:Brush Script, Helvetica, sans-serif
+
+}
+.text{
+    background-color: E0D4FC;
+    font-size: 16px;
+    width: 200px;
+    padding: 5px 5px;
+    margin-left: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+}
+button{
+    width: 100px;
+    margin: 16px auto;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: centre;
+    background-color: #6E5B9A;
+    color: white;
+    border-radius: 4px;
+    border: 0px solid #6E5B9A;
+    padding: 10px 10px;
+    font-size: 13px;
+}
+.button:hover{
+    background-color: #B29CE4;
+    color: white;
+}
+.recipes{
+    box-sizing: border-box;
+    width:500px;
+    background-color: #E0D4FC;
+    padding: 0px;
+    margin: 16px 8px;
+    height: 200px;
+}
+.recipe1{
+    background-color: #B29CE4;
+    display: inline-block;
+    padding: 50px;
+    width: 250px;
+    box-sizing: border-box;
+    color: white;
+    height: 200px;
+    text-align: left;
+}
+.recipe2{
+    box-sizing: border-box;
+    background-color: #6E5B9A;
+    display: inline-block;
+    width: 245px;
+    padding: 0px;
+    color: white;
+    height: 200px;
+    text-align: left;
+    padding: 50px;
 }
 li{
     color:#42326E;
     font-family:"Brush Script MT";
 }
-img{
+/* img{
     background-color: #d3cfdd;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 350px;
-}
+    margin: auto;
+} */
 
-p{
-    color:#42326E;
-    font-family: "Times New Roman", "Arial";
-    background-color: #E0D4FC;
-}
