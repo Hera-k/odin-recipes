@@ -27,6 +27,10 @@ body{
     margin-left: 1px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Geneva, Tahoma, sans-serif;
 }
+a{
+    text-decoration:none;
+    color: white;
+}
 button{
     width: 100px;
     margin: 16px auto;
@@ -55,7 +59,7 @@ button{
 .recipe1{
     background-color: #B29CE4;
     display: inline-block;
-    padding: 50px;
+    padding: 40.3px;
     width: 250px;
     box-sizing: border-box;
     color: white;
@@ -67,11 +71,10 @@ button{
     background-color: #6E5B9A;
     display: inline-block;
     width: 245px;
-    padding: 0px;
     color: white;
     height: 200px;
     text-align: left;
-    padding: 50px;
+    padding: 40.3px;
 }
 li{
     color:#42326E;
